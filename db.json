@@ -1,0 +1,108 @@
+{
+  "deliveries": [
+    {
+      "id": 2,
+      "vehicleType": "8 Wheeler 1000 Kgs - 7 ft 10 inch Long",
+      "amount": 20,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "id": 3,
+      "vehicleType": "4 Wheeler 700 Kgs - 5 ft Long",
+      "amount": 300,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "id": 4,
+      "vehicleType": "6 Wheeler 800 Kgs - 6 ft Long",
+      "amount": 100,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "id": 5,
+      "vehicleType": "8 Wheeler 1000 Kgs - 7 ft 10 inch Long",
+      "amount": 200,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "id": 6,
+      "vehicleType": "3 Wheeler 500 Kgs - 4 ft 8 inch Long",
+      "amount": 100,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "id": 7,
+      "vehicleType": "4 Wheeler 700 Kgs - 5 ft Long",
+      "amount": 200,
+      "amountUom": "hour",
+      "grace": 1,
+      "graceUom": "hour"
+    },
+    {
+      "vehicleType": "3 Wheeler 500 Kgs - 4 ft 8 inch Long",
+      "amount": 1000,
+      "grace": 100,
+      "amountUom": "hour",
+      "graceUom": "hour",
+      "id": 8
+    },
+    {
+      "vehicleType": "8 Wheeler 1000 Kgs - 7 ft 10 inch Long",
+      "amount": 2500,
+      "grace": 5,
+      "amountUom": "hour",
+      "graceUom": "hour",
+      "id": 9
+    },
+    {
+      "vehicleType": "3 Wheeler 500 Kgs - 4 ft 8 inch Long",
+      "amount": 3,
+      "grace": 20,
+      "amountUom": "hour",
+      "graceUom": "hour",
+      "id": 10
+    },
+    {
+      "vehicleType": "3 Wheeler 500 Kgs - 4 ft 8 inch Long",
+      "amount": 120,
+      "grace": 200,
+      "amountUom": "hour",
+      "graceUom": "hour",
+      "id": 11
+    },
+    {
+      "vehicleType": "3 Wheeler 500 Kgs - 4 ft 8 inch Long",
+      "amount": 150,
+      "grace": 100,
+      "amountUom": "hour",
+      "graceUom": "hour",
+      "id": 12
+    },
+    {
+      "vehicleType": "4 Wheeler 700 Kgs - 5 ft Long",
+      "grace": "123",
+      "graceUom": "minute",
+      "amountUom": "minute",
+      "amount": "200",
+      "id": 14
+    },
+    {
+      "vehicleType": "6 Wheeler 800 Kgs - 6 ft Long",
+      "grace": "238",
+      "graceUom": "minute",
+      "amountUom": "minute",
+      "amount": "20",
+      "id": 15
+    }
+  ]
+}
